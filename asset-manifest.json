@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/voting-app/static/css/main.f799fb5e.chunk.css",
+    "main.js": "/voting-app/static/js/main.6530ac28.chunk.js",
+    "main.js.map": "/voting-app/static/js/main.6530ac28.chunk.js.map",
+    "runtime-main.js": "/voting-app/static/js/runtime-main.5935a110.js",
+    "runtime-main.js.map": "/voting-app/static/js/runtime-main.5935a110.js.map",
+    "static/js/2.87dcd3c4.chunk.js": "/voting-app/static/js/2.87dcd3c4.chunk.js",
+    "static/js/2.87dcd3c4.chunk.js.map": "/voting-app/static/js/2.87dcd3c4.chunk.js.map",
+    "index.html": "/voting-app/index.html",
+    "precache-manifest.b46224c903adbcc9e7a7403649f35d74.js": "/voting-app/precache-manifest.b46224c903adbcc9e7a7403649f35d74.js",
+    "service-worker.js": "/voting-app/service-worker.js",
+    "static/css/main.f799fb5e.chunk.css.map": "/voting-app/static/css/main.f799fb5e.chunk.css.map",
+    "static/js/2.87dcd3c4.chunk.js.LICENSE.txt": "/voting-app/static/js/2.87dcd3c4.chunk.js.LICENSE.txt",
+    "static/media/az.jpg": "/voting-app/static/media/az.1630c2a6.jpg",
+    "static/media/houssein.jpg": "/voting-app/static/media/houssein.ad8b1fef.jpg",
+    "static/media/imran.jpg": "/voting-app/static/media/imran.0e8e07d5.jpg",
+    "static/media/youss.jpg": "/voting-app/static/media/youss.829a4d37.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5935a110.js",
+    "static/js/2.87dcd3c4.chunk.js",
+    "static/css/main.f799fb5e.chunk.css",
+    "static/js/main.6530ac28.chunk.js"
+  ]
+}
